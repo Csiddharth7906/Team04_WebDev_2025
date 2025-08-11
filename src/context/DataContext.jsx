@@ -12,7 +12,6 @@ export function AppDataProvider({ children }) {
       .then(res => res.json())
       .then(setTimeline);
 
-    // Fetch gallery data
     fetch('/gallary.json')
       .then(res => res.json())
       .then(setGallery);
@@ -25,6 +24,6 @@ export function AppDataProvider({ children }) {
   );
 }
 
-export function useAppData() {
-  return useContext(AppDataContext);
-}
+// export function useAppData() {
+//   return useContext(AppDataContext);
+// }

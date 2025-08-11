@@ -20,7 +20,7 @@ const Loading = () => {
         return ()=> clearInterval(interval)
     },[])
   return (
-    <div className='h-screen w-screen bg-gradient-to-r from-orange-400 via-white to-green-400 flex justify-center items-center'>
+    <div className='h-screen w-screen bg-gradient-to-r from-orange-400 via-white to-green-400 flex justify-center items-center font-bold'>
         <h1 className='text-4xl '>
             {greet[index]}
         </h1>

@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react'
 import { Route, Router, Routes } from 'react-router-dom';
 import Loading from './components/Loading';
 import Home from './components/Home';
+import TimelineDetalis from './components/TimelineDetalis';
+import Timeline from './components/Timeline';
+import Gallery from './components/Gallery';
 
 const App = () => {
   const [loading,setLoading] = useState(true);
@@ -16,9 +19,10 @@ const App = () => {
     <>
      <Routes >
       <Route path="/"  element={loading?<Loading />:<Home />} />
-      <Route path='/timeline' element={}/>
-          <Route path='/timeline/:id' element={}/>
+      <Route path='/timeline' element={<Timeline />}>
+        <Route path='/timeline/:id' element={<TimelineDetalis />} />
       </Route>
+      <Route path='/gallery' element={<Gallery />} />
      </Routes>
     </>
   )

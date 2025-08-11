@@ -5,7 +5,7 @@ import Horizontal from './Horizontal'
 
 const Home = () => {
   return (
-    <div className='min-h-screen w-screen bg-gradient-to-br overflow-hidden from-orange-500 via-white to-green-500'>
+    <div className='min-h-screen   bg-gradient-to-br  from-orange-500 via-white to-green-500'>
         <Nav />
             <div className=' flex flex-col justify-center items-center h-screen  text-center font-bold'>
                 <div>
@@ -17,22 +17,19 @@ const Home = () => {
               </h1>
 
                 </div>
-              <div className='flex block gap-4'>
+              <div className='flex  gap-4'>
 
-              <Link to='/gallery' className='px-3  py-3 mt-10  bg-gradient-to-br from-orange-400 to-orange-600 rounded-full text-white hover:scale-105 ' >
+              <Link to='/gallery' className='px-3  py-3 mt-10  bg-gradient-to-br from-orange-400 to-orange-600 rounded-full text-white hover:scale-105 ease ' >
                  Explore Gallery 
               </Link>
                <Link to='/timeline' className='px-3  py-3 mt-10 border-2 text-green-500 border-green-600 hover:bg-green-600 hover:text-white   rounded-full' >
-                 Explore Gallery 
+                 Explore timeline 
               </Link>
               </div>
             </div>
-            <div className='my-5 text-center text-5xl h-screen'>
-           <h1 className='text-zinc-900'>Journey Through Time</h1>
            
                 <Horizontal />
-           
-            </div>
+
     </div>
   )
 }
