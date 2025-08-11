@@ -29,7 +29,7 @@ function Timeline() {
             )))}
             
         </nav>
-        <main className='flex w-full p-5 absolute top-50  '>
+        <main className='flex w-full p-5 absolute top-40   '>
             <Outlet />
         </main>
             </div>

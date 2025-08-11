@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Route, Router, Routes } from 'react-router-dom';
+import { Navigate, Route, Router, Routes } from 'react-router-dom';
 import Loading from './components/Loading';
 import Home from './components/Home';
 import TimelineDetalis from './components/TimelineDetalis';
@@ -20,6 +20,7 @@ const App = () => {
      <Routes >
       <Route path="/"  element={loading?<Loading />:<Home />} />
       <Route path='/timeline' element={<Timeline />}>
+      <Route index element={<Navigate to="1757" replace />} />
         <Route path='/timeline/:id' element={<TimelineDetalis />} />
       </Route>
       <Route path='/gallery' element={<Gallery />} />
