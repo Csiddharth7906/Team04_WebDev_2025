@@ -16,6 +16,9 @@ const App = () => {
     <>
      <Routes >
       <Route path="/"  element={loading?<Loading />:<Home />} />
+      <Route path='/timeline' element={}/>
+          <Route path='/timeline/:id' element={}/>
+      </Route>
      </Routes>
     </>
   )
