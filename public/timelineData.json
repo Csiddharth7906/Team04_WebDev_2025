@@ -1,0 +1,444 @@
+[
+  {
+    "id": "1757",
+    "title": "Start of British Dominance",
+    "subtitle": "1757",
+    "category": "Colonial Era",
+    "events": [
+      {
+        "date": "23 June 1757",
+        "title": "Battle of Plassey",
+        "description": "The British East India Company defeats Nawab Siraj-ud-Daulah, establishing British political and military supremacy in Bengal. This marks the beginning of British colonial rule in India.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg/1280px-Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg"
+      },
+      {
+        "date": "1765",
+        "title": "Diwani Rights Granted",
+        "description": "The British East India Company is granted the rights to collect revenue in Bengal, Bihar, and Orissa, cementing economic control and paving the way for further expansion.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Shah_%27Alam_conveying_the_grant_of_the_Diwani_to_Lord_Clive.jpg/500px-Shah_%27Alam_conveying_the_grant_of_the_Diwani_to_Lord_Clive.jpg"
+      },
+      {
+        "date": "1773",
+        "title": "Regulating Act Passed",
+        "description": "British Parliament enacts the Regulating Act to control the East India Company's activities, marking the start of official British government intervention in India.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg/330px-Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg.png"
+      }
+    ]
+  },
+  {
+    "id": "1857",
+    "title": "First War of Independence",
+    "subtitle": "1857",
+    "category": "Freedom Struggle",
+    "events": [
+      {
+        "date": "10 May 1857",
+        "title": "Mutiny Begins at Meerut",
+        "description": "Indian soldiers (sepoys) revolt against British officers in Meerut over cultural and military grievances, igniting the widespread rebellion against British rule.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Indian_Rebellion_of_1857.jpg/500px-Indian_Rebellion_of_1857.jpg"
+      },
+      {
+        "date": "June 1857",
+        "title": "Siege of Delhi",
+        "description": "Rebel forces capture Delhi and proclaim the aging Mughal emperor Bahadur Shah Zafar as their leader, symbolizing a united front against the British East India Company.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1857_cashmeri_gate_delhi.jpg/500px-1857_cashmeri_gate_delhi.jpg"
+      },
+      {
+        "date": "September 1857",
+        "title": "British Regain Control",
+        "description": "British forces recapture Delhi after brutal fighting, marking the beginning of the end for the rebellion, which gradually loses steam by 1858.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/1857_bank_of_delhi2.jpg/500px-1857_bank_of_delhi2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1858",
+    "title": "British Crown Takes Over",
+    "subtitle": "1858",
+    "category": "Colonial Era",
+    "events": [
+      {
+        "date": "1 November 1858",
+        "title": "End of East India Company Rule",
+        "description": "The British government officially assumes direct control over India, dissolving the East India Company and beginning the period known as the British Raj.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jameslancaster.jpg/500px-Jameslancaster.jpg"
+      },
+      {
+        "date": "1858",
+        "title": "Queen Victoria's Proclamation",
+        "description": "Queen Victoria issues a proclamation promising respect for Indian traditions and fair governance, attempting to legitimize British rule after the rebellion.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Image_victoria_proclamation1858c.JPG/500px-Image_victoria_proclamation1858c.JPG"
+      },
+      {
+        "date": "1861",
+        "title": "Indian Councils Act",
+        "description": "Establishment of legislative councils with limited Indian representation, sowing seeds for political awakening and future demands for self-rule.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Town_Hall%2C_Calcutta_from_the_Illustrated_London_News%2C_1876.jpg/500px-The_Town_Hall%2C_Calcutta_from_the_Illustrated_London_News%2C_1876.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1885",
+    "title": "Birth of Indian National Congress",
+    "subtitle": "1885",
+    "category": "Freedom Struggle",
+    "events": [
+      {
+        "date": "28 December 1885",
+        "title": "INC Founded",
+        "description": "The Indian National Congress is established to create a platform for Indian political dialogue, initially advocating moderate reforms within the British Empire.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gopal_krishan_gokhale.jpg"
+      },
+      {
+        "date": "1890s",
+        "title": "Rise of Political Awareness",
+        "description": "INC members begin pressing for more rights and involvement of Indians in governance, sowing the groundwork for mass nationalist movements.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/1st_INC1885.jpg/500px-1st_INC1885.jpg"
+      },
+      {
+        "date": "1905",
+        "title": "Partition of Bengal Protest",
+        "description": "INC leads protests against Bengal’s partition, marking a shift towards more active resistance against British policies.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/West_Bengal_in_India.svg/330px-West_Bengal_in_India.svg.png"
+      }
+    ]
+  },
+  {
+    "id": "1915",
+    "title": "Gandhi Returns to Lead",
+    "subtitle": "1915",
+    "category": "Freedom Struggle",
+    "events": [
+      {
+        "date": "September 1915",
+        "title": "Mahatma Gandhi Returns",
+        "description": "After years in South Africa, Gandhi returns to India and begins advocating nonviolent civil disobedience as a method to challenge British rule.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/500px-Mahatma-Gandhi%2C_studio%2C_1931.jpg"
+      },
+      {
+        "date": "1919",
+        "title": "Jallianwala Bagh Massacre",
+        "description": "British troops fire on unarmed civilians in Amritsar, shocking the nation and fueling calls for complete independence.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jallianwala_Bagh_in_Day_light.JPG/500px-Jallianwala_Bagh_in_Day_light.JPG"
+      },
+      {
+        "date": "1920",
+        "title": "Non-Cooperation Movement",
+        "description": "Under Gandhi’s leadership, Indians boycott British goods and institutions, marking a mass mobilization for independence.",
+        "image": "https://i.pinimg.com/736x/d9/68/76/d96876f374d94dcdc59a0f6d740cc163.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1930",
+    "title": "Salt Satyagraha and Civil Disobedience",
+    "subtitle": "1930",
+    "category": "Freedom Struggle",
+    "events": [
+      {
+        "date": "12 March 1930",
+        "title": "Salt March Begins",
+        "description": "Gandhi leads a 240-mile march to Dandi to protest the British salt tax, inspiring nationwide acts of civil disobedience.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Marche_sel.jpg/500px-Marche_sel.jpg"
+      },
+      {
+        "date": "April 1930",
+        "title": "Nationwide Civil Disobedience",
+        "description": "Mass protests against British laws spread across India, uniting people across regions and classes.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mahatma_%26_Sarojini_Naidu_1930.JPG/500px-Mahatma_%26_Sarojini_Naidu_1930.JPG"
+      },
+      {
+        "date": "1931",
+        "title": "Gandhi-Irwin Pact",
+        "description": "An agreement between Gandhi and the British government promising concessions in exchange for halting civil disobedience.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/1st_Earl_of_Halifax_1947.jpg/330px-1st_Earl_of_Halifax_1947.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1942",
+    "title": "Quit India Movement",
+    "subtitle": "1942",
+    "category": "Freedom Struggle",
+    "events": [
+      {
+        "date": "8 August 1942",
+        "title": "Quit India Resolution Passed",
+        "description": "The Indian National Congress demands an end to British rule, calling for mass protests and civil disobedience across the country.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Discussing_the_%22Quit_India%22_movement_with_Nehru.jpg/500px-Discussing_the_%22Quit_India%22_movement_with_Nehru.jpg"
+      },
+      {
+        "date": "August-September 1942",
+        "title": "Mass Arrests",
+        "description": "Thousands of leaders including Gandhi are imprisoned to suppress the movement, but widespread protests continue.",
+        "image": "https://i.pinimg.com/1200x/da/7e/49/da7e49ad826773443bf49693ee0df4da.jpg"
+      },
+      {
+        "date": "1944",
+        "title": "Movement's Impact",
+        "description": "Though suppressed, the movement galvanized Indians and increased pressure on the British to leave India.",
+        "image": "https://i.pinimg.com/736x/1f/77/8f/1f778f83a7be0f9abf0222affe6f2033.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1947",
+    "title": "India Gains Independence",
+    "subtitle": "1947",
+    "category": "Freedom Struggle",
+    "events": [
+      {
+        "date": "15 August 1947",
+        "title": "India Becomes Independent",
+        "description": "After nearly 200 years of British rule, India gains independence, with Jawaharlal Nehru delivering his iconic 'Tryst with Destiny' speech.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg/500px-A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg"
+      },
+      {
+        "date": "August 1947",
+        "title": "Partition and Mass Migration",
+        "description": "India is partitioned into two countries, India and Pakistan, leading to massive population displacement and communal violence.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jawaharlal_Nehru_delivering_his_%22tryst_with_destiny%22_speech.jpg/500px-Jawaharlal_Nehru_delivering_his_%22tryst_with_destiny%22_speech.jpg"
+      },
+      {
+        "date": "26 January 1950",
+        "title": "Republic of India",
+        "description": "India adopts its Constitution and becomes a sovereign democratic republic.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Constitution_of_India.jpg/330px-Constitution_of_India.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1974",
+    "title": "India's Nuclear Breakthrough",
+    "subtitle": "1974",
+    "category": "Science & Defence",
+    "events": [
+      {
+        "date": "18 May 1974",
+        "title": "Smiling Buddha Test",
+        "description": "India successfully conducts its first nuclear bomb test in Pokhran, marking it as a nuclear power and boosting national pride and defense capabilities.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/DRDO_Successfully_Flight-Tested_Guided_Bomb_From_SU-30_MKI_%282%29.png/375px-DRDO_Successfully_Flight-Tested_Guided_Bomb_From_SU-30_MKI_%282%29.png"
+      },
+      {
+        "date": "1974",
+        "title": "Scientific Achievement",
+        "description": "This test signifies India’s growing technological prowess and self-reliance in advanced defense technology.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trombay.jpg/500px-Trombay.jpg"
+      },
+      {
+        "date": "1974",
+        "title": "Strategic Importance",
+        "description": "India’s nuclear capability alters regional power dynamics and security policies.",
+        "image": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=300&h=300&fit=crop&crop=center"
+      }
+    ]
+  },
+  {
+    "id": "1991",
+    "title": "Economic Liberalization",
+    "subtitle": "1991",
+    "category": "Economic",
+    "events": [
+      {
+        "date": "July 1991",
+        "title": "New Economic Policy",
+        "description": "India undertakes major economic reforms, opening up markets, reducing controls, and encouraging foreign investment to overcome a severe balance of payments crisis.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lodha_Altamount_-_An_epitome_of_luxury.jpg/960px-Lodha_Altamount_-_An_epitome_of_luxury.jpg"
+      },
+      {
+        "date": "August 1991",
+        "title": "IMF Bailout",
+        "description": "International Monetary Fund provides critical financial support contingent on reforms, marking a shift towards globalization.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/480px-IMF-Seal_ENG_RGB.svg.png"
+      },
+      {
+        "date": "1991-2000",
+        "title": "Rapid Growth",
+        "description": "India’s GDP growth accelerates, poverty declines, and the middle class expands significantly.",
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=300&h=300&fit=crop&crop=center"
+      }
+    ]
+  },
+  {
+    "id": "2008",
+    "title": "India’s Lunar Leap",
+    "subtitle": "2008",
+    "category": "Space",
+    "events": [
+      {
+        "date": "22 October 2008",
+        "title": "Chandrayaan-1 Launch",
+        "description": "India's first lunar probe is launched, marking its entry into deep space exploration.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CY1_2007_%28cropped%29.jpg/500px-CY1_2007_%28cropped%29.jpg"
+      },
+      {
+        "date": "November 2008",
+        "title": "Water Molecules Found on Moon",
+        "description": "Chandrayaan-1 discovers evidence of water molecules on the lunar surface, a major scientific breakthrough.",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=300&h=300&fit=crop&crop=center"
+      },
+      {
+        "date": "2008-2010",
+        "title": "Global Recognition",
+        "description": "India’s space capabilities gain worldwide respect, opening avenues for international collaboration.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PSLV-C11_launch2.jpg/500px-PSLV-C11_launch2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013",
+    "title": "Mars Mission Triumph",
+    "subtitle": "2013",
+    "category": "Space",
+    "events": [
+      {
+        "date": "5 November 2013",
+        "title": "Mars Orbiter Launch",
+        "description": "ISRO launches Mangalyaan, India's first interplanetary mission to Mars, at a fraction of the global cost.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/500px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg"
+      },
+      {
+        "date": "24 September 2014",
+        "title": "Mars Orbit Insertion",
+        "description": "Mangalyaan successfully enters Mars orbit on its first attempt, making India the first Asian nation to reach Mars.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mars_Orbiter_Mission_Mission_Insignia.png/330px-Mars_Orbiter_Mission_Mission_Insignia.png"
+      },
+      {
+        "date": "2014",
+        "title": "Global Acclaim",
+        "description": "Mission receives worldwide praise for innovation, cost-efficiency, and success.",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=300&h=300&fit=crop&crop=center"
+      }
+    ]
+  },
+  {
+    "id": "2016",
+    "title": "Digital India Leap",
+    "subtitle": "2016",
+    "category": "Technology & Economy",
+    "events": [
+      {
+        "date": "8 November 2016",
+        "title": "Demonetization Shock",
+        "description": "Prime Minister Modi announces demonetization of high-value currency notes to fight corruption and promote digital transactions.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Queue_at_Bank_to_Exchange_INR_500_and_1000_Notes_-_Salt_Lake_City_-_Kolkata_2016-11-10_02103.jpg/500px-Queue_at_Bank_to_Exchange_INR_500_and_1000_Notes_-_Salt_Lake_City_-_Kolkata_2016-11-10_02103.jpg"
+      },
+      {
+        "date": "2017",
+        "title": "Digital Payment Surge",
+        "description": "Huge growth in digital payments and mobile wallets transforms India’s financial landscape and promotes financial inclusion.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/UPI_logo.svg/330px-UPI_logo.svg.png"
+      },
+      {
+        "date": "2016-2020",
+        "title": "Broadband Expansion",
+        "description": "Rural and urban areas see improved internet connectivity, fueling innovation and economic growth.",
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=300&h=300&fit=crop&crop=center"
+      }
+    ]
+  },
+  {
+    "id": "2020",
+    "title": "India’s COVID-19 Response",
+    "subtitle": "2020-2021",
+    "category": "Healthcare & Global Aid",
+    "events": [
+      {
+        "date": "March 2020",
+        "title": "Nationwide Lockdown",
+        "description": "India imposes one of the strictest lockdowns to curb the spread of COVID-19, impacting millions but slowing transmission.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Zone_wise_lockdown_in_new_Bhopal_2.jpg/500px-Zone_wise_lockdown_in_new_Bhopal_2.jpg"
+      },
+      {
+        "date": "January 2021",
+        "title": "World’s Largest Vaccination Drive",
+        "description": "India launches massive COVID-19 vaccination campaign, prioritizing healthcare workers and vulnerable populations.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/330px-Coronavirus._SARS-CoV-2.png"
+      },
+      {
+        "date": "2021",
+        "title": "Vaccine Maitri — Global Aid",
+        "description": "India shares millions of vaccine doses and medical supplies with neighboring and developing countries, demonstrating global solidarity.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oxford_AstraZeneca_COVID-19_vaccine_%28Indian_version%29_2021_L.jpeg/500px-Oxford_AstraZeneca_COVID-19_vaccine_%28Indian_version%29_2021_L.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2025",
+    "title": "Rise of AI and Tech Innovation",
+    "subtitle": "2025",
+    "category": "Technology",
+    "events": [
+      {
+        "date": "Early 2025",
+        "title": "National AI Policy Launch",
+        "description": "India unveils a comprehensive AI policy focusing on ethical AI development, innovation hubs, and skill development for a digital future.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png/250px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png"
+      },
+      {
+        "date": "Mid 2025",
+        "title": "AI Education Revolution",
+        "description": "Widespread AI learning centers open, increasing access to cutting-edge technology education across rural and urban India.",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=300&h=300&fit=crop&crop=center"
+      },
+      {
+        "date": "2025",
+        "title": "Tech Startups Boom",
+        "description": "India becomes a global leader in AI-powered startups, innovating in healthcare, agriculture, finance, and smart cities.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/10_Largest_Corporations_by_Market_Capitalization.png/960px-10_Largest_Corporations_by_Market_Capitalization.png"
+      }
+    ]
+  },
+  {
+    "id": "2030",
+    "title": "Towards Mars and Beyond",
+    "subtitle": "2030",
+    "category": "Space Exploration",
+    "events": [
+      {
+        "date": "February 2030",
+        "title": "Mangalyaan-3 Launch",
+        "description": "India launches its most advanced Mars mission, aiming to establish robotic habitat modules on the Martian surface.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/500px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"
+      },
+      {
+        "date": "September 2030",
+        "title": "Mars Base Established",
+        "description": "India successfully deploys the first robotic research station on Mars, marking a historic milestone in interplanetary colonization.",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=300&h=300&fit=crop&crop=center"
+      },
+      {
+        "date": "2030",
+        "title": "International Space Collaboration",
+        "description": "India leads multi-nation efforts to explore Mars and other planets, showcasing its technological and diplomatic leadership.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg/500px-The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2047",
+    "title": "Centenary of Indian Independence",
+    "subtitle": "2047",
+    "category": "Future Vision",
+    "events": [
+      {
+        "date": "15 August 2047",
+        "title": "100 Years of Freedom",
+        "description": "India celebrates 100 years of independence with grand events highlighting social progress, technological advancements, and cultural unity.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/250px-Flag_of_India.svg.png"
+      },
+      {
+        "date": "2047",
+        "title": "India: A Global Tech Powerhouse",
+        "description": "India ranks among the top nations for innovation, AI, green energy, and space exploration, fostering global peace and prosperity.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/960px-Dampfturbine_Montage01.jpg"
+      },
+      {
+        "date": "2047",
+        "title": "Inclusive Growth and Sustainability",
+        "description": "India leads in equitable development, ensuring prosperity for all citizens while protecting the environment for future generations.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Sustainable_Development_Goals_logo.svg/375px-Sustainable_Development_Goals_logo.svg.png"
+      }
+    ]
+  }
+]

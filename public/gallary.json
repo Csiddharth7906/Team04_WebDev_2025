@@ -1,0 +1,198 @@
+[
+    {
+        "id": "1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+        "Name": "Mahatma Gandhi",
+        "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Leader of the Indian independence movement through non-violent civil disobedience. Known as the Father of the Nation, he led the Salt March and Quit India Movement."
+    },
+    {
+        "id": "2",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Subhas_Chandra_Bose_NRB.jpg",
+        "Name": "Subhas Chandra Bose",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Revolutionary leader who formed the Indian National Army (INA) and fought against British rule. Known as Netaji, he believed in armed struggle for independence."
+    },
+    {
+        "id": "3",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bhagat_Singh_1929.jpg",
+        "Name": "Bhagat Singh",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Revolutionary socialist and martyr who was executed at age 23. Famous for bombing the Central Legislative Assembly and his fearless attitude towards death for the country."
+    },
+    {
+        "id": "4",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jawaharlal_Nehru%2C_circa_1925.jpg/250px-Jawaharlal_Nehru%2C_circa_1925.jpg",
+        "Name": "Jawaharlal Nehru",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "First Prime Minister of independent India and key leader of the independence movement. Disciple of Gandhi and architect of modern India's democratic foundations."
+    },
+    {
+        "id": "5",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9hbM7Wn-QF1iHf_yDQLI1QDDzfFV69tV6nA&s",
+        "Name": "Sardar Vallabhbhai Patel",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Known as the Iron Man of India, he played a crucial role in the political integration of India after independence. Key leader in the independence movement and first Deputy Prime Minister."
+    },
+    {
+        "id": "6",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Chandrasekhar_Azad.jpg",
+        "Name": "Chandrashekhar Azad",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Revolutionary who vowed never to be captured alive by the British. Leader of the Hindustan Republican Association and mentor to Bhagat Singh. Died fighting the British police."
+    },
+    {
+        "id": "7",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThM1GAlOm-cTXRz2tCe72iv4BuwvUX02pEhw&s",
+        "Name": "Rani Lakshmibai",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Queen of Jhansi and one of the leading figures of the Indian Rebellion of 1857. Fought valiantly against the British East India Company and became a symbol of resistance."
+    },
+    {
+        "id": "8",
+        "url": "https://filaantro.org/blog/uploads/mangal-pandey-main-24.jpg",
+        "Name": "Mangal Pandey",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Sepoy in the British East India Company who is credited with sparking the Indian Rebellion of 1857. His rebellion against the use of animal fat in cartridges became legendary."
+    },
+    {
+        "id": "9",
+        "url": "https://d14a823tufvajd.cloudfront.net/images/qu8G1YbsrKenOtAPbJNN.jpg",
+        "Name": "Ashfaqulla Khan",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Revolutionary and close associate of Ram Prasad Bismil. Participated in the Kakori conspiracy and was executed by the British. Symbol of Hindu-Muslim unity in the freedom struggle."
+    },
+    {
+        "id": "10",
+        "url": "https://imagesvs.oneindia.com/img/2022/06/ram-prasad-bismil-1654936900.jpg",
+        "Name": "Ram Prasad Bismil",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Revolutionary poet and leader of the Hindustan Republican Association. Led the famous Kakori train robbery and was executed by the British. Known for his patriotic poetry."
+    },
+    {
+        "id": "11",
+        "url": "https://i0.wp.com/www.tushita.travel/wp-content/uploads/2024/07/403bc94c-5077-d362-3e02-b7f37fa39204.jpeg?fit=534%2C800&ssl=1",
+        "Name": "Sarojini Naidu",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Poet, political activist, and first woman Governor of an Indian state. Known as the Nightingale of India, she was a prominent leader in the Civil Disobedience Movement."
+    },
+    {
+        "id": "12",
+        "url": "https://cdn.britannica.com/07/155907-004-F3FD4D5B/Bal-Gangadhar-Tilak.jpg?w=400&h=300&c=crop",
+        "Name": "Bal Gangadhar Tilak",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Social reformer and freedom fighter known as Lokmanya Tilak. Promoted the slogan 'Swaraj is my birthright and I shall have it.' Founded festivals like Ganesh Chaturthi as nationalist tools."
+    },
+    {
+        "id": "13",
+        "url": "https://res.cloudinary.com/dkplc2mbj/image/upload/v1611830912/ljp_34788df136.jpg",
+        "Name": "Lala Lajpat Rai",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Freedom fighter and author known as Punjab Kesari (Lion of Punjab). Leader of the Lal Bal Pal trio and died from injuries sustained during a protest against the Simon Commission."
+    },
+    {
+        "id": "14",
+        "url": "https://truthsun.com/images/seekers/nationalists/bipin-chandra-pal/bipin-chandra-pal.jpg",
+        "Name": "Bipin Chandra Pal",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "Revolutionary writer and orator, part of the Lal Bal Pal trio. Advocated for Swadeshi movement and was one of the main architects of the revolutionary movement in Bengal."
+    },
+    {
+        "id": "15",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Painting_of_Khudiram_Bose_by_Haripada_Das_it_is_kept_at_Mahajati_Sadan%2C_Kolkata.jpg/250px-Painting_of_Khudiram_Bose_by_Haripada_Das_it_is_kept_at_Mahajati_Sadan%2C_Kolkata.jpg",
+        "Name": "Khudiram Bose",
+         "wikiUrl":"https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Disc": "One of the youngest revolutionaries executed by the British at age 18. Attempted to assassinate British officials and became a martyr inspiring many young Indians to join the freedom struggle."
+    },
+  {
+    "id": "16",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Annie_Besant_-_portrait.jpg",
+    "Name": "Annie Besant",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Annie_Besant",
+    "Disc": "British-born supporter of Indian self-rule, founder of the Home Rule League, and prominent theosophist who inspired many Indian leaders."
+  },
+  {
+    "id": "17",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chittaranjan_Das_2.jpg",
+    "Name": "Chittaranjan Das",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Chittaranjan_Das",
+    "Disc": "Lawyer and nationalist leader, famous for defending Aurobindo Ghose in the Alipore Bomb Case and leading the Swaraj Party."
+  },
+  {
+    "id": "18",
+    "url": "https://res.cloudinary.com/dkplc2mbj/image/upload/v1615182371/gkg_44acdd09dd.jpg",
+    "Name": "Gopal Krishna Gokhale",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gopal_Krishna_Gokhale",
+    "Disc": "Moderate nationalist leader and social reformer, mentor to Gandhi, and founder of the Servants of India Society."
+  },
+  {
+    "id": "19",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKFO4WiFq_hFGG3_R5yYd9BE0WG7P6G5Ie8Q&s",
+    "Name": "Dr. Rajendra Prasad",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rajendra_Prashad",
+    "Disc": "Prominent leader in the Indian National Congress and the first President of independent India."
+  },
+  {
+    "id": "20",
+    "url": "https://www.indiafacts.org.in/wp-content/uploads/2014/08/i2.jpg",
+    "Name": "K. M. Munshi",
+    "wikiUrl": "https://en.wikipedia.org/wiki/K._M._Munshi",
+    "Disc": "Indian independence movement activist, writer, and founder of Bharatiya Vidya Bhavan."
+  },
+  {
+    "id": "21",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbcBWELuji6dMMSYZKVlNLTNiRIbai08eg&s",
+    "Name": "Deendayal Upadhyaya",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Deendayal_Upadhyaya",
+    "Disc": "Political thinker and leader of the Bharatiya Jana Sangh. Promoted Integral Humanism as an ideology."
+  },
+  {
+    "id": "22",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dr._Bhimrao_Ambedkar.jpg/1200px-Dr._Bhimrao_Ambedkar.jpg",
+    "Name": "Dr. B.R. Ambedkar",
+    "wikiUrl": "https://en.wikipedia.org/wiki/B._R._Ambedkar",
+    "Disc": "Social reformer and architect of the Indian Constitution. Worked tirelessly for Dalit rights and social justice."
+  },
+  {
+    "id": "23",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRkRjC9pxvKq2SfVixMMHyHNs13yK0deWM8w&s",
+    "Name": "Motilal Nehru",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Motilal_Nehru",
+    "Disc": "Prominent lawyer and politician, father of Jawaharlal Nehru, and leader in the Indian National Congress."
+  },
+  {
+    "id": "24",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Madam_Bhikaiji_Cama.jpg",
+    "Name": "Madam Bhikaiji Cama",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bhikaiji_Cama",
+    "Disc": "Indian independence activist known for unfurling one of the first versions of the Indian flag in Germany."
+  },
+  {
+    "id": "25",
+    "url": "https://resize.indiatvnews.com/en/resize/gallery/840_-/2025/07/azad-1-1753239880.jpg",
+    "Name": "Chandra Shekhar Azad",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Chandra_Shekhar_Azad",
+    "Disc": "Freedom fighter who reorganized the Hindustan Republican Association and fought British rule with armed resistance."
+  },
+  {
+    "id": "26",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Aruna_Asaf_Ali.jpg/250px-Aruna_Asaf_Ali.jpg",
+    "Name": "Aruna Asaf Ali",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Aruna_Asaf_Ali",
+    "Disc": "Prominent woman freedom fighter known for hoisting the Indian National Congress flag during the Quit India Movement."
+  },
+  {
+    "id": "27",
+    "url": "https://modernrationalist.com/wp-content/uploads/2024/11/cc22a818275c61f0638ca8969505036e.jpg",
+    "Name": "Jyotirao Phule",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jyotirao_Phule",
+    "Disc": "Social reformer and anti-caste activist who worked to educate women and lower castes in 19th-century India."
+  },
+  {
+    "id": "28",
+    "url": "https://www.ts-adyar.org/sites/default/files/styles/wide/public/2024-01/Annie%20Besant_1.jpg?itok=ulxnlTMu",
+    "Name": "Annie Besant",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Annie_Besant",
+    "Disc": "Promoter of Indian self-rule and theosophist who inspired many Indian leaders."
+  }
+]
