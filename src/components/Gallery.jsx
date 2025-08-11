@@ -20,7 +20,7 @@ const Gallery = () => {
   return (
     <div className="min-h-screen w-full overflow-x-hidden bg-gradient-to-br from-orange-300 via-white to-green-300">
       <Nav />
-      <div className="p-4 columns-1 sm:columns-2 md:columns-5 gap-4">
+      <div className="p-4 columns-1 sm:columns-2 md:columns-5 gap-4 mt-20">
         {gallery.map((item) => (
           <div
             key={item.id}
@@ -56,4 +56,4 @@ const Gallery = () => {
   );
 }
 
-export default Gallary;
+export default Gallery;

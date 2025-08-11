@@ -5,7 +5,7 @@ const Nav = () => {
 
 
   return (
-    <div className='fixed top-4 flex w-100 left-1/2 -translate-x-1/2 '>
+    <div className='fixed top-4 flex w-100 left-1/2 -translate-x-1/2  z-50 '>
       <nav className='backdrop-blur-lg gap-4 w-full justify-between flex  bg-white/20  items-center rounded-2xl shadow-md px-4 py-3'>
         <Link
         to='/'
